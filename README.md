@@ -1,3 +1,5 @@
-# Hi there
+# 你好！
 
-![](https://github-readme-stats.vercel.app/api?username=HelloGwkki)
+我是HelloGwkki，一名**什么都不会的Hapi**。
+
+![README-STATS](https://github-readme-stats.vercel.app/api?username=HelloGwkki)
