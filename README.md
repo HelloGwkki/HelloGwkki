@@ -4,6 +4,6 @@
 
 ## 警告！
 
-这个github号**基本上**不会活动。
+0 WARNING(s)
 
 ![README-STATUS](https://github-readme-stats.vercel.app/api?username=HelloGwkki)
