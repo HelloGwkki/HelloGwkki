@@ -23,11 +23,11 @@
 
 # SOME-AWESOME-REPOS
 
-<div align="left">
+<!--<div align="left">
    <a href="https://github.com/HelloGwkki/ZiZhuOPENSOURCE-OS"><img src="https://gh-card.dev/repos/HelloGwkki/ZiZhuOPENSOURCE-OS.svg"></a>
    <a href="https://github.com/HelloGwkki/GengTu"><img src="https://gh-card.dev/repos/HelloGwkki/GengTu.svg"></a>
    <a href="https://github.com/HelloGwkki/groupBot"><img src="https://gh-card.dev/repos/HelloGwkki/groupBot.svg"></a>
-<div>
+<div>-->
 
 ---
 
