@@ -25,13 +25,13 @@
 
 我是HelloGwkki，一名**什么都不会的Hapi**。
 
-# 一些有趣的 Repo
+<!--# 一些SHIT的 Repo
 
 <div align="left" width="50%">
    <a href="https://github.com/HelloGwkki/ZiZhuOPENSOURCE-OS"><img src="https://gh-card.dev/repos/HelloGwkki/ZiZhuOPENSOURCE-OS.svg"></a>
    <a href="https://github.com/HelloGwkki/GengTu"><img src="https://gh-card.dev/repos/HelloGwkki/GengTu.svg"></a>
    <a href="https://github.com/HelloGwkki/groupBot"><img src="https://gh-card.dev/repos/HelloGwkki/groupBot.svg"></a>
-<div>
+<div>-->
 
 ---
 
