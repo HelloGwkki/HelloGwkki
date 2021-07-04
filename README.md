@@ -3,6 +3,7 @@
 
 <!--OwO-->
 <img align="left" src="https://img.shields.io/badge/HelloGwkki-green?style=for-the-badge&logo=Matternet" />
+<img align="right" src="https://badges.pufler.dev/visits/HelloGwkki/HelloGwkki?style=for-the-badge&logo=Matternet&color=E96443">
 
 ---
 
