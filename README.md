@@ -9,7 +9,9 @@
 <br />
 
 <!--Status-->
-<img align="left" width="50%" src="https://metrics.lecoq.io/HelloGwkki?template=classic&base.repositories=0&base.metadata=0&people=1&activity=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" />
+<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/HelloGwkki?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
+<a href="#"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=HelloGwkki&bg_color=00000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true" /></a>
+<a href="#"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloGwkki&bg_color=00000000&title_color=fff&text_color=fff&hide_border=true&layout=compact"></a>
 
 <!--Badges-->
 ![badge](https://img.shields.io/badge/简体中文-yellow?style=flat-square)
@@ -25,23 +27,14 @@
 
 我是HelloGwkki，一名**什么都不会的Hapi**。
 
-<!--# 一些SHIT的 Repo
+# 一些 Repo
 
 <div align="left" width="50%">
-   <a href="https://github.com/HelloGwkki/ZiZhuOPENSOURCE-OS"><img src="https://gh-card.dev/repos/HelloGwkki/ZiZhuOPENSOURCE-OS.svg"></a>
-   <a href="https://github.com/HelloGwkki/GengTu"><img src="https://gh-card.dev/repos/HelloGwkki/GengTu.svg"></a>
-   <a href="https://github.com/HelloGwkki/groupBot"><img src="https://gh-card.dev/repos/HelloGwkki/groupBot.svg"></a>
-<div>-->
+   <a href="https://github.com/HelloGwkki/ZiZhuOPENSOURCE-OS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloGwkki&repo=ZiZhuOPENSOURCE-OS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true"></a>
+   <a href="https://github.com/HelloGwkki/GengTu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gengtu&repo=GengTu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true"></a>
+   <a href="https://github.com/HelloGwkki/groupBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloGwkki&repo=groupBot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true"></a>
+<div>
 
 ---
 
 <div align="center"> 🤪 | Always, keep happy~ </div>
-
-```plain
-   _    _      _ _        _____          _    _    _ 
-  | |  | |    | | |      / ____|        | |  | |  (_)
-  | |__| | ___| | | ___ | |  ____      _| | _| | ___ 
-  |  __  |/ _ \ | |/ _ \| | |_ \ \ /\ / / |/ / |/ / |
-  | |  | |  __/ | | (_) | |__| |\ V  V /|   <|   <| |
-  |_|  |_|\___|_|_|\___/ \_____| \_/\_/ |_|\_\_|\_\_|
-  ```
