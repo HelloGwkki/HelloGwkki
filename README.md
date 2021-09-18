@@ -21,8 +21,7 @@
 </div>
 
 <!--OwO-->
-<a href="#"><img align="left" src="https://img.shields.io/badge/HelloGwkki-green?style=for-the-badge&logo=Matternet" /></a>
-<a href="#"><img align="right" src="https://badges.pufler.dev/visits/HelloGwkki/HelloGwkki?style=for-the-badge&logo=Matternet&color=E96443" /></a>
+<a href="#"><img align="left" src="https://badges.pufler.dev/visits/HelloGwkki/HelloGwkki?style=for-the-badge&logo=Matternet&color=E96443" /></a>
 
 <hr />
 
