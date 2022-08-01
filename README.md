@@ -22,12 +22,12 @@
 
   <div align="center">
   <h1>你好！</h1>
-  <p>我是<code>HelloGwkki</code>(又叫<code>纯春茶</code>)，一名<strong>什么都不会的Hapi</strong>。</p>
+  <p>我是<code>HelloGwkki</code>(又叫<code>纯春茶</code>)，一名<strong>什么都不会的普通人</strong>。</p>
   </div>
 </div>
 
-<!--OwO(crashed)-->
-<!--<a href="#"><img align="left" src="https://badges.pufler.dev/visits/HelloGwkki/HelloGwkki?style=for-the-badge&logo=Matternet&color=E96443" /></a>-->
+<!--OwO(fixed)-->
+<a href="#"><img align="left" src="http://komarev.com/ghpvc/?username=HelloGwkki&style=for-the-badge&label=Views&color=ff69b4"/></a>
 
 <hr />
 
