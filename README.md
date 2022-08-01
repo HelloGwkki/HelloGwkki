@@ -27,7 +27,7 @@
 </div>
 
 <!--OwO(fixed)-->
-<a href="#"><img align="left" src="http://komarev.com/ghpvc/?username=HelloGwkki&style=for-the-badge&label=Views&color=ff69b4"/></a>
+<a href="#"><img align="left" src="https://komarev.com/ghpvc/?username=HelloGwkki&style=for-the-badge&label=Views&color=ff69b4"/></a>
 
 <hr />
 
