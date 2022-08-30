@@ -1,12 +1,6 @@
 name: Waka Readme
 
-on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: '0 * * * *' # runs at every 12AM UTC
-  push:
-    branches:
-      - main
+on: [push, fork]
 
 jobs:
   update-readme:
