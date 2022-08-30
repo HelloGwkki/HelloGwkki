@@ -2,8 +2,7 @@
 <a href="#"><img src="https://i.loli.net/2021/06/30/5T9NlsgFOdmHCY8.png" width="100%"/></a>
 
 <!--Badges-->
-<div>
-  <div align="center">
+<div align="center">
    <a href="#"><img src="https://img.shields.io/badge/简体中文-yellow?style=flat-square" /></a>
    <a href="#"><img src="https://img.shields.io/badge/Bad_at_English-red?style=flat-square" /></a>
    <a href="#"><img src="https://img.shields.io/badge/Powershell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" /></a>
@@ -20,6 +19,11 @@
     </a>
   </p>
 
+<!--Status-->
+<a href="#"><img align="left" wdith="50%" src="https://github-readme-stats.vercel.app/api?username=HelloGwkki&bg_color=3F51B5&title_color=fff&text_color=fff&icon_color=FF4081&hide_border=true&show_icons=true" /></a>
+
+<!--Intro-->
+<div align="right" width="50%">
   <div align="center">
   <h1>你好！</h1>
   <p>我是<code>HelloGwkki</code>(又叫<code>纯春茶</code>)，一名<strong>什么都不会的普通人</strong>。</p>
@@ -27,15 +31,7 @@
 </div>
 
 <!--OwO(fixed)-->
-<a href="#"><img align="left" src="https://komarev.com/ghpvc/?username=HelloGwkki&style=for-the-badge&label=Views&color=ff69b4"/></a>
-
-<hr />
-
-<br />
-
-<!--Status-->
-<a href="#"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=HelloGwkki&bg_color=3F51B5&title_color=fff&text_color=fff&icon_color=FF4081&hide_border=true&show_icons=true" /></a>
-<a href="#"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloGwkki&bg_color=3F51B5&title_color=fff&text_color=fff&icon_color=FF4081&hide_border=true&layout=compact" /></a>
+<a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=HelloGwkki&style=for-the-badge&label=Views&color=ff69b4"/></a>
 
 <hr />
 
