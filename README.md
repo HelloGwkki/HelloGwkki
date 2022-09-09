@@ -41,7 +41,6 @@
 <br />
 
 <div width="100%">
-<a href="https://twitter.com/chunchaqwq"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chunchaqwq&layout=wide" /></a>
 <br/>
 <!--START_SECTION:waka-->
 
