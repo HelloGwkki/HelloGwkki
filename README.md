@@ -40,8 +40,8 @@
 <br />
 <br />
 
-<div width="100%">
-<br/>
+## 📊 | WakaTime~
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -54,4 +54,3 @@ XML          15 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-</div>
